@@ -13,8 +13,8 @@
 
 */
 
-const char* ssid     = "SSID";
-const char* password = "PASSKEY";
+const char* ssid     = "JoshCam";
+const char* password = "665644446";
 int led= 4 ;
 void setup() {
   pinMode(led, OUTPUT);
