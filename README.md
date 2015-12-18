@@ -8,8 +8,11 @@ The sketch WIFI-Cam.ino starts a recording for approximately 5s and stops it lat
 
 The WIFI-Cam.bin (for 512k flash) is the the precompiled sketch you can flash on your esp8266 with esptool for example:
 Linux:
-sudo ./esptool -cp /dev/ttyUSB0 -cf WIFI-Cam.bin 
-SSID of your Cam: SJ4000 	Passkey:123456789
+
+sudo ./esptool -cp /dev/ttyUSB0 -cf WIFI-Cam.bin
+ 
+SSID of your Cam: SJ4000 
+Passkey: 123456789
 It starts a recording for app. 5s and stops it later on
 
 In future I will build a software which acts like a remote which you can wear on your wrist, like the remote for GoPro Cameras!.
