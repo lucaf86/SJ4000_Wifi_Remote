@@ -6,7 +6,7 @@ Just turn on your Cam an let the ESP do the rest for you!
 
 The sketch WIFI-Cam.ino starts a recording for approximately 5s and stops it later on.
 
-In future I will build a software which acts like a remote which you can wear on your wrist, like the remmote for GoPro Cammeras!.
+In future I will build a software which acts like a remote which you can wear on your wrist, like the remote for GoPro Cameras!.
 
 Questions: Feel free to ask!
 
